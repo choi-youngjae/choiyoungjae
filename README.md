@@ -7,5 +7,20 @@
 - js와 python을 얼마나 더 창의적이게 쓸 수 있을까 고민합니다
 - 디자인의 혁신 예술의 경지 생활화에 편안함과 즐거움을 줄 수 있는 요인을 좋아합니다
 
+## ⭐️Contact & Channel⭐️
+Email : chldudwo1999@naver.com
+Github : https://github.com/choi-youngjae
+
+## 🧐Skills🔥
+
+<h3>▶Front-end</h3>
+JavaScript,HTML/CSS
+
+<h3>▶Back-end</h3>
+JAVA, Servlets, Apache Tomcat
+
+<h3>▶Database</h3>
+Oracle, Mybatis
+
 
 
