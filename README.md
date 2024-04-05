@@ -1,4 +1,3 @@
-choiyoungjae/README.md
 
 ##  👀독창성을 추구하는 프론트 개발자 최영재입니다 🤹‍♀️
 
